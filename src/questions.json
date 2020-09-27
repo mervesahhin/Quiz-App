@@ -1,0 +1,44 @@
+[
+    {
+        "question":"Ayda golf oynayan ilk insan kimdir?",
+        "optionA ":"Neil Louis Armstrong",
+        "optionB ":"Alan Shepard",
+        "optionC ":"Yuri Gagarin",
+        "optionD ":"Elon Musk",
+        "answer" :"Alan Shepard"
+    },
+    {
+        "question":"Uzayda yetiştirilen ilk sebze nedir?",
+        "optionA ":"Marul",
+        "optionB ":"Ispanak",
+        "optionC ":"Lahana",
+        "optionD ":"Salatalık",
+        "answer" :"Marul"
+    },
+    {
+        "question":"İslam dünyasının Roması olarak bilinen şehir neresidir ?",
+        "optionA ":"Semerkant",
+        "optionB ":"Kaşgar",
+        "optionC ":"Kudüs",
+        "optionD ":"Buhara",
+        "answer" :"Buhara"
+    },
+
+    {
+        "question":"İlk Türk Devletlerinde 'törün' ne demektir?",
+        "optionA ":"Düğün eğlencesi",
+        "optionB ":"Cenaze töreni",
+        "optionC ":"Yeni doğan çocuk eğlencesi",
+        "optionD ":"Düğün yemeği",
+        "answer" :"Düğün yemeği"
+    },
+
+    {
+        "question":"200 TL'nin arkasında kimin resmi vardır?",
+        "optionA ":"Aydın Sayılı",
+        "optionB ":"Yunus Emre",
+        "optionC ":"Cahit Arf",
+        "optionD ":"Itri",
+        "answer" :"Yunus Emre"
+    }
+]

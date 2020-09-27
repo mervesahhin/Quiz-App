@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family:quicksand;
+}
+
+.toast-valid{
+    background-color: success-text !important;
+    border-radius: 5px !important;
+    color : white !important;
+}
+
+.toast-invalid{
+    background-color: error-text !important;
+    border-radius: 5px !important;
+    color : white !important;
+}
+
+
+.disable{
+    pointer-events: none;
+    background-color:grey !important;
+    box-shadow: none !important;
+    opacity: 0.9 !important;
+}
